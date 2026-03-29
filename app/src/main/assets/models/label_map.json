@@ -6,9 +6,9 @@
     "GOOD": 3,
     "HELLO": 4,
     "HELP": 5,
-    "NO": 6,
-    "PLEASE": 7,
-    "THANK YOU": 8,
+    "PLEASE": 6,
+    "THANK YOU": 7,
+    "WANT": 8,
     "YES": 9
   },
   "index_to_label": {
@@ -18,9 +18,9 @@
     "3": "GOOD",
     "4": "HELLO",
     "5": "HELP",
-    "6": "NO",
-    "7": "PLEASE",
-    "8": "THANK YOU",
+    "6": "PLEASE",
+    "7": "THANK YOU",
+    "8": "WANT",
     "9": "YES"
   },
   "sequence_length": 30,
